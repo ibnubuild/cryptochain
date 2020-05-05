@@ -5,3 +5,6 @@
 3. The Chain  the Blockchain Backend
 4. Proof of Work The Blockchain Backend
 5. API and Network  The Blockchain Backend
+6. Wallets, Keys, and Transactions The Cryptocurrency Backend
+7. Transaction Pool The Blockchain and Cryptocurrency Backend
+8. Mine Transactions The Blockchain and Cryptocurrency Backend
