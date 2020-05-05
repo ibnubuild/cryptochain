@@ -21,6 +21,7 @@
     "express": "^4.17.1",
     "hex-to-binary": "^1.0.1",
     "pubnub": "^4.21.6",
-    "redis": "^3.0.2"
+    "redis": "^3.0.2",
+    "request": "^2.88.0"
   }
 }
